@@ -1,5 +1,5 @@
 # KryptonBlockchain
 
-Welcome to Krypton, a new vision for the internet. Essentially, this is a decentralized ISP which is powered by the blockchain. This gives freedom and power to the individual and takes it away from the big corporations that are ISPs.
+Welcome to Krypton, a new vision for the internet.  We believe that privacy is a right not a options. ISP have a virtual monopoly over your data doing with it as they please. We are creating a decentralized isp. This gives freedom and power to the individual and takes it away from the big corporations that are ISPs. We plan on creating nodes all around the world which indivual host themselve they're preventing a large database of data for you to be tracked.
 
 More info coming soon.
