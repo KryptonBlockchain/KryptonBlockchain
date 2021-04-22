@@ -7,3 +7,6 @@ Welcome to Krypton, a new vision for the internet.  We believe that privacy is a
 This represent how authentication will work on the Krypton Blockchain network and how we would utilize blockchain in it. Nodes are the devices that users will place in their home to share their internet imaginge it like user owned isp base stations. This is key to the network and these will MOST likely be built using a raspberry pi but this is not confirmed yet. 
 # If you need any clarifications or anything is confusing please make an issue and we will try our best to update the DFD.
 More info coming soon.
+
+#To follow the progress:
+https://kryptonblockchain.xyz/
